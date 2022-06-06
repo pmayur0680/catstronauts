@@ -1,3 +1,3 @@
-# Catstronauts - server
+# Catstronauts
 
-The starting point of the `server` code for Odyssey Lift-off I course.
+Full-stack GraphQL example application called Catstronauts by following (https://odyssey.apollographql.com/lift-off-part1), Apollo's learning platform.
